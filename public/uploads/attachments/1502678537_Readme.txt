@@ -1,0 +1,13 @@
+#############################################################
+# 				 
+# TutorPRO APP GOLD Version 1.0
+# 
+#############################################################
+
+created by:............	Neba Funwi-gabga
+released:..............	August 8, 2017
+last updated:..........	August 8, 2016
+current version:.......	1.0
+website:............... http://tutorproapp.com
+documentation: ........ http://documentation.tutorproapp.com
+demo:..................	http://gold.tutorproapp.com
